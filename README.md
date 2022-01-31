@@ -6,7 +6,7 @@ Link: https://latestnewsapi.herokuapp.com/
 Current News Sources Available:
 
 - AP News
-- ... new sources coming soon.
+- Reuters
 
 Example in Python code:
 

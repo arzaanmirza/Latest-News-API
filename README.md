@@ -7,6 +7,8 @@ Current News Sources Available:
 
 - AP News
 - Reuters
+- 9 News (Australia)
+- PBS News
 
 Example in Python code:
 

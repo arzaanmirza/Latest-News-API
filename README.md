@@ -9,6 +9,7 @@ Current News Sources Available:
 - Reuters
 - 9 News (Australia)
 - PBS News
+- NPR News
 - More sources coming...
 
 Example in Python code:

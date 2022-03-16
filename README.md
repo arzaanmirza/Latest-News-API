@@ -19,3 +19,23 @@ Example in Python code:
 Supported requests:
 
 * GET
+
+
+
+
+
+
+
+
+
+<br />
+<br />
+
+## Filtering By News
+
+To only recieve news from a particular media source:
+
+<img width="755" alt="image" src="https://user-images.githubusercontent.com/78077697/158607208-0075bb17-5118-43c1-8423-8da7b80315fc.png">
+
+
+
